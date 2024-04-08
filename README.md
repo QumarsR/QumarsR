@@ -4,16 +4,15 @@ Based out of Toronto, I rock the world as a Senior Developer and Cloud Architect
 
 
 ## 📦 Toolbox
-### Infrastructure 🏗️
-`AWS` `GitLab CI` `Terraform` `AWS CDK` `Docker` `Kubernetes`
-### Languages 📜
-`Python` `Typescript` `Javascript` `SQL` `Bash` `Java`
-### Databases 🗄️
-`MySQL` `Windows SQL` `Postgres` `MongoDB` `DynamoDB` `ElasticSearch`
-### Version Control #️⃣
-`Git` `GitLab` 
-### Others 📖
-`Postman` `Jira` `Scrum` `VSCode` `Machine Learning`
+**Infrastructure 🏗️** : `AWS` `GitLab CI` `Terraform` `AWS CDK` `Docker` `Kubernetes`
+
+**Languages 📜** : `Python` `Typescript` `Javascript` `SQL` `Bash` `Java`
+
+**Databases 🗄️** : `MySQL` `Windows SQL` `Postgres` `MongoDB` `DynamoDB` `ElasticSearch`
+
+**Version Control #️⃣** : `Git` `GitLab` 
+
+**Others 📖** : `Postman` `Jira` `Scrum` `VSCode` `Machine Learning`
 
 
 ## ✨ Fun Facts 
